@@ -206,8 +206,7 @@ exit
 
 clear
 echo "--------------------------------------------"
-echo "Created by ：github.com/yonggekkk"
-echo -e "${yellow}Developed by Nima : Github.com/NiREvil ${rest}"
+echo -e "${red}Edit By:  'Nima' ---  github.com/NiREvil  ${rest}"
 echo "--------------------------------------------"
 echo""
 echo -e "${purple}1.${green}IPV4 preferred peer IP${rest}"
