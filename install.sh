@@ -344,7 +344,7 @@ clear
 echo "********************************"
 Check_WARP_WireGuard_Status
 echo "********************************" 
-echo -e "${red}Edit by: 'Nima'  -- github.com/NiREvil *${rest}"
+echo -e "${red}Developed By:  'Nima radical' ---  github.com/NiREvil  ${rest}"
 echo ""
 echo -e "${green}Select an option${rest}: ${rest}"
 echo -e "${purple}1) ${green}Install WARP${rest}"
