@@ -206,13 +206,13 @@ exit
 
 clear
 echo "--------------------------------------------"
-echo -e "${red}By:  'Nima radical' ---  github.com/NiREvil  ${rest}"
+echo -e "${red}Developed By:  'Nima radical' ---  github.com/NiREvil  ${rest}"
 echo "--------------------------------------------"
 echo""
-echo -e "${purple}1.${green}ترجیح میدی IPv4 اسکن کنم${rest}"
-echo -e "${purple}2.${green}ترجیح میدی IPv6 اسکن کنم${rest}"
-echo -e "${purple}0.${green}خروج${rest}"
-read -p "انتخاب کن دایی جان: " menu
+echo -e "${purple}1.${green}IPV4 preferred peer IP${rest}"
+echo -e "${purple}2.${green}IPV6 preferred peer IP${rest}"
+echo -e "${purple}0.${green}Exit${rest}"
+read -p "please choose one, dummy: " menu
 if [ "$menu" == "1" ];then
 cfwarpIP && endipv4 && endipresult && Endip_v4
 elif [ "$menu" == "2" ];then
