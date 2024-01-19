@@ -1,45 +1,51 @@
 ## WARP & WARP+
+    
 
- این اسکریپت ب طور خودکار cloudflare warp رو در لینوکس نصب و پیکربندی میکنه و میتونه با کلاینت رسمی warp یا کلاینت wireguard یا nekobox به شبکه های warp متصل شه.
+> * این اسکریپت ب طور خودکار **cloudflare warp** رو در لینوکس نصب و پیکربندی میکنه و میتونه با کلاینت رسمی warp یا کلاینت wireguard یا nekobox به شبکه  **warp** متصل شه.
 
+ 
+> * با دستور اول می‌تونید یک کانفیگ وایرگارد در شبکه وارپ بسازید.
+ > **نکته:** روی termux قابل اجرا نیست
+> > برای اجرا نیاز به دسترسی `root` دارد.
 
-
-----------------------------------------
-
- با اسکریپت اول می‌تونید یک کانفیگ وایرگارد در شبکه وارپ بسازید. (روی termux قابل اجرا نیست).
-
-با اسکریپت دوم می‌تونید متناسب با سرویس دهنده اینترنت خودتون آی‌پی تمییز وارپ اسکن کنید.
-
-#### [آموزش نصب و اجرای Termux در اندروید 5 و 6 ](https://t.me/F_NiREvil/5040)
+> *با اسکریپت دوم می‌تونید متناسب با سرویس دهنده اینترنت خودتون آی‌پی تمییز وارپ اسکن کنید.
 
 
 
  
-امکان فعال کردن warp یا warp + روی IPV4 و IPV6 به صورت انتخابی.
 
-----------------------------------------
-inatall
-```
-bash <(curl -fsSL https://raw.githubusercontent.com/NiREvil/warp/main/install.sh)
-```
+## 1- inatall
+****امکان فعال کردن warp یا warp + روی IPV4 و IPV6 به صورت انتخابی****
+
+
+
+    bash <(curl -fsSL https://raw.githubusercontent.com/NiREvil/warp/main/install.sh)
+
+
 
 ![1](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/1.png)
 
 
 
-## اسکنر آی‌پی وارپ
+## 2- Endpoint IP scanner
+****اسکنر آی‌پی تمییز وارپ****
 
-----------------------------------------
-## Endpoint IP scanner
-```
-bash <(curl -fsSL https://raw.githubusercontent.com/NiREvil/warp/main/endip/install.sh)
-```
+
+    
+
+
+
+    bash <(curl -fsSL https://raw.githubusercontent.com/NiREvil/warp/main/endip/install.sh)
+
 
 ![2](https://raw.githubusercontent.com/NiREvil/workers-cloudflare/main/Other/2.png)
 
 
-----------------------------------------
-[دریافت License رایگان وارپ از بات تلگرام](https://t.me/generatewarpplusbot)
+---
+
+> * [آموزش نصب و اجرای Termux در اندروید 5 و 6 ](https://t.me/F_NiREvil/5040)
+
+> * [دریافت License رایگان وارپ از بات تلگرام](https://t.me/generatewarpplusbot)
 
 
 -------------------------
