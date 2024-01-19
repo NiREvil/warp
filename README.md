@@ -43,9 +43,9 @@
 
 ---
 
-> * [آموزش نصب و اجرای Termux در اندروید 5 و 6 ](https://t.me/F_NiREvil/5040)
+>  [آموزش نصب و اجرای Termux در اندروید 5 و 6 ](https://t.me/F_NiREvil/5040)
 
-> * [دریافت License رایگان وارپ از بات تلگرام](https://t.me/generatewarpplusbot)
+>  [دریافت License رایگان وارپ از بات تلگرام](https://t.me/generatewarpplusbot)
 
 
 -------------------------
