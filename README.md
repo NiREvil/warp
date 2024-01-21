@@ -51,5 +51,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/NiREvil/warp/main/endip/inst
 #### Credits
 [P3TERX](https://github.com/P3TERX/warp.sh) & [yonggekkk](https://github.com/yonggekkk?tab=repositories)
 
-** تغییر مخزن آی‌پی ها و ترجمه از زبان چینی به انگلیسی **
+تغییر مخزن آی‌پی ها و ترجمه از زبان چینی به انگلیسی
+
 -----------------------------
